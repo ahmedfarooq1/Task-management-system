@@ -30,7 +30,7 @@ Launch the application by running the main.py file.
 
 Use the provided GUI to manage departments, projects, and students.
 
-All data is automatically saved to an SQLite database named ProjectManagement.db located in the project directory.
+All data is automatically saved to an SQLite database named taskmanagement.db located in the project directory.
 
 **File Structure**
 
